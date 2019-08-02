@@ -1,0 +1,36 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    padding: 200px 0;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+
+.banner p {
+    color: white;
+    font-size: 20px;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #6AD58B;
+    padding: 16px 36px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #1dad6a;
+}
